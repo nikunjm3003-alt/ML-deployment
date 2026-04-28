@@ -2,3 +2,5 @@ streamlit
 scikit-learn
 matplotlib
 numpy
+xgboost
+pandas
