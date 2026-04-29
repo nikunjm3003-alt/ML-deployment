@@ -9,6 +9,7 @@ from sklearn.metrics import accuracy_score
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
 
+
 st.title("StreamLit Example")
 
 st.write("""
