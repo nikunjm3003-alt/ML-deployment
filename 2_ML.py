@@ -8,6 +8,10 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score
 
+'''IN THIS I HAVE NOT PUT SCALING AND ENCODING METHOD SO I AM ONLY PUTTING DATASET WITH NUMERIC VALUE. I HAVE ALSO 
+ MENTIONED THE DATASET FOR CONVINENCE'''
+
+
 # title
 st.title("A REGRESSION MODEL")
 st.write("# TRYING DIFFERENT TYPE OF MODEL ON DIFFERENT DATASETS")
